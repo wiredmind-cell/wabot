@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Classic White T-Shirt",
+    "description": "100% cotton, unisex, available in S/M/L/XL",
+    "price": 19.99,
+    "stock": 150,
+    "category": "Apparel",
+    "sku": "APP-001"
+  },
+  {
+    "name": "Black Hoodie",
+    "description": "Heavyweight 400gsm fleece, kangaroo pocket",
+    "price": 49.99,
+    "stock": 80,
+    "category": "Apparel",
+    "sku": "APP-002"
+  },
+  {
+    "name": "Running Shorts",
+    "description": "Moisture-wicking fabric, 5-inch inseam",
+    "price": 29.99,
+    "stock": 60,
+    "category": "Apparel",
+    "sku": "APP-003"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "description": "Bluetooth 5.3, 30-hour battery, IPX5 water resistant",
+    "price": 79.99,
+    "stock": 45,
+    "category": "Electronics",
+    "sku": "ELC-001"
+  },
+  {
+    "name": "Phone Stand",
+    "description": "Adjustable aluminium desk stand, fits all phones",
+    "price": 14.99,
+    "stock": 200,
+    "category": "Electronics",
+    "sku": "ELC-002"
+  },
+  {
+    "name": "USB-C Charging Cable (2m)",
+    "description": "Braided nylon, 100W fast charging, 2 metre length",
+    "price": 12.99,
+    "stock": 300,
+    "category": "Electronics",
+    "sku": "ELC-003"
+  },
+  {
+    "name": "Coffee Mug 350ml",
+    "description": "Ceramic mug with minimalist design, microwave safe",
+    "price": 9.99,
+    "stock": 120,
+    "category": "Home & Kitchen",
+    "sku": "HK-001"
+  },
+  {
+    "name": "Insulated Water Bottle 750ml",
+    "description": "Double-wall stainless steel, keeps cold 24h / hot 12h",
+    "price": 34.99,
+    "stock": 75,
+    "category": "Home & Kitchen",
+    "sku": "HK-002"
+  },
+  {
+    "name": "Laptop Sleeve 15-inch",
+    "description": "Neoprene with accessory pocket, fits up to 15.6 inch",
+    "price": 24.99,
+    "stock": 55,
+    "category": "Bags & Accessories",
+    "sku": "BAG-001"
+  },
+  {
+    "name": "Canvas Tote Bag",
+    "description": "Heavy-duty canvas, 10L capacity, reinforced handles",
+    "price": 18.99,
+    "stock": 0,
+    "category": "Bags & Accessories",
+    "sku": "BAG-002"
+  }
+]
